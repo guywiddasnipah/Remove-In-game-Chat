@@ -1,0 +1,5 @@
+ /* Remove In-game Chat */
+#app > div.game-interface > div.desktop-game-interface > div.chat.chat-position,
+.hp-title {
+    display: none !important;
+}
